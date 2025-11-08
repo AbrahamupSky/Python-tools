@@ -1,4 +1,4 @@
-# Some tools using Python and Flet ⚙️
+# ⚙️ Some tools using Python and Flet
 
 Here I will upload some tools that I come up with to make in Python and Flet.
 
