@@ -4,7 +4,7 @@ Here I will upload some tools that I come up with to make in Python and Flet.
 
 Author: [AbrahamupSky](https://github.com/AbrahamupSky)
 
-## Episode Renamer:
+## 📝 Episode Renamer:
 
 - It allows you to rename files in order (the app prioritizes by file age, double-check on that).
 - Select the season and episode you want to start with.
